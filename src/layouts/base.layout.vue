@@ -81,8 +81,8 @@ const tools = computed<ToolCategory[]>(() => [
           </div>
           <div>
             © {{ new Date().getFullYear() }}
-            <c-link target="_blank" rel="noopener" href="https://github.com/CorentinTh">
-              Corentin Thomasset
+            <c-link target="_blank" rel="noopener" href="https://ctext.top/">
+              伴随
             </c-link>
           </div>
         </div>
